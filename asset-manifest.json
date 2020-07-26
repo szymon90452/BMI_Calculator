@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.4aa0580c.chunk.css",
-    "main.js": "/static/js/main.fd577c3c.chunk.js",
-    "main.js.map": "/static/js/main.fd577c3c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b38e052a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b38e052a.js.map",
-    "static/js/2.5bf19f29.chunk.js": "/static/js/2.5bf19f29.chunk.js",
-    "static/js/2.5bf19f29.chunk.js.map": "/static/js/2.5bf19f29.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e1a3cf8da5edbae1c46690c13febf55c.js": "/precache-manifest.e1a3cf8da5edbae1c46690c13febf55c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.4aa0580c.chunk.css.map": "/static/css/main.4aa0580c.chunk.css.map",
-    "static/js/2.5bf19f29.chunk.js.LICENSE.txt": "/static/js/2.5bf19f29.chunk.js.LICENSE.txt",
-    "static/media/Image.css": "/static/media/pablo-healthy-life.b7d2b1d7.png"
+    "main.css": "/BMI_Calculator/static/css/main.d1550f22.chunk.css",
+    "main.js": "/BMI_Calculator/static/js/main.10634f9e.chunk.js",
+    "main.js.map": "/BMI_Calculator/static/js/main.10634f9e.chunk.js.map",
+    "runtime-main.js": "/BMI_Calculator/static/js/runtime-main.b096c846.js",
+    "runtime-main.js.map": "/BMI_Calculator/static/js/runtime-main.b096c846.js.map",
+    "static/js/2.5bf19f29.chunk.js": "/BMI_Calculator/static/js/2.5bf19f29.chunk.js",
+    "static/js/2.5bf19f29.chunk.js.map": "/BMI_Calculator/static/js/2.5bf19f29.chunk.js.map",
+    "index.html": "/BMI_Calculator/index.html",
+    "precache-manifest.9d2dfe39039b836775c6ff9199fd2a4a.js": "/BMI_Calculator/precache-manifest.9d2dfe39039b836775c6ff9199fd2a4a.js",
+    "service-worker.js": "/BMI_Calculator/service-worker.js",
+    "static/css/main.d1550f22.chunk.css.map": "/BMI_Calculator/static/css/main.d1550f22.chunk.css.map",
+    "static/js/2.5bf19f29.chunk.js.LICENSE.txt": "/BMI_Calculator/static/js/2.5bf19f29.chunk.js.LICENSE.txt",
+    "static/media/Image.css": "/BMI_Calculator/static/media/pablo-healthy-life.b7d2b1d7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b38e052a.js",
+    "static/js/runtime-main.b096c846.js",
     "static/js/2.5bf19f29.chunk.js",
-    "static/css/main.4aa0580c.chunk.css",
-    "static/js/main.fd577c3c.chunk.js"
+    "static/css/main.d1550f22.chunk.css",
+    "static/js/main.10634f9e.chunk.js"
   ]
 }
