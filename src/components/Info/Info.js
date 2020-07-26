@@ -3,11 +3,11 @@ import "./Info.css";
 
 function Info(props) {
   let status = "";
-  if (props.state.value < 18.5) {
+  if (props.state.value <= 18.5) {
     status = "Underweight";
-  } else if (props.state.value >= 18.5 && props.state.value <= 24.9) {
+  } else if (props.state.value > 18.5 && props.state.value <= 24.9) {
     status = "Normal or Healthy Weight";
-  } else if (props.state.value >= 26 && props.state.value <= 30) {
+  } else if (props.state.value > 24.9 && props.state.value <= 30) {
     status = "Overweight";
   } else if (props.state.value > 30) {
     status = "Obese";
