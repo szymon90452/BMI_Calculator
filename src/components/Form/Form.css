@@ -1,0 +1,44 @@
+/* MAIN RIGHT */
+#right {
+  background-color: bisque;
+  text-align: center;
+}
+
+/* FORM */
+#sex-radio {
+  text-align: center;
+}
+
+.sex {
+  display: inline-block;
+  background-color: red;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 15px;
+}
+
+#male {
+  background-color: lightblue;
+}
+
+#female {
+  background-color: lightcoral;
+}
+
+.btn {
+  background-color: lightsalmon;
+  border: 1px solid red;
+  color: black;
+  text-transform: uppercase;
+}
+
+.btn:hover {
+  background-color: rgb(245, 120, 70);
+  color: black;
+}
+
+.value {
+  color: rgb(207, 92, 46);
+  font-weight: bold;
+}

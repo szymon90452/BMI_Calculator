@@ -1,0 +1,13 @@
+/* MAIN */
+#full {
+  border: 2px solid black;
+  border-radius: 3px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.41);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.41);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.41);
+}
+
+#left,
+#right {
+  padding: 25px;
+}

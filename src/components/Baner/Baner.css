@@ -1,0 +1,9 @@
+/* MAIN BANER */
+#baner {
+  text-align: center;
+  margin: auto;
+  background-color: rgb(250, 192, 120);
+  padding: 25px;
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+}

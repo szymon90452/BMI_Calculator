@@ -1,0 +1,15 @@
+#left {
+  background-image: url("./../../pablo-healthy-life.png");
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-right: 1px solid black;
+}
+
+@media (max-width: 767px) {
+  #left {
+    display: none;
+  }
+}
