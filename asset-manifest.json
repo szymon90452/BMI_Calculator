@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4aa0580c.chunk.css",
+    "main.js": "/static/js/main.fd577c3c.chunk.js",
+    "main.js.map": "/static/js/main.fd577c3c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b38e052a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b38e052a.js.map",
+    "static/js/2.5bf19f29.chunk.js": "/static/js/2.5bf19f29.chunk.js",
+    "static/js/2.5bf19f29.chunk.js.map": "/static/js/2.5bf19f29.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e1a3cf8da5edbae1c46690c13febf55c.js": "/precache-manifest.e1a3cf8da5edbae1c46690c13febf55c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4aa0580c.chunk.css.map": "/static/css/main.4aa0580c.chunk.css.map",
+    "static/js/2.5bf19f29.chunk.js.LICENSE.txt": "/static/js/2.5bf19f29.chunk.js.LICENSE.txt",
+    "static/media/Image.css": "/static/media/pablo-healthy-life.b7d2b1d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b38e052a.js",
+    "static/js/2.5bf19f29.chunk.js",
+    "static/css/main.4aa0580c.chunk.css",
+    "static/js/main.fd577c3c.chunk.js"
+  ]
+}
