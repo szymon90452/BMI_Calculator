@@ -7,7 +7,7 @@ class App extends React.Component {
     super();
     this.state = {
       sex: "male",
-      weight: 75,
+      weight: 100,
       height: 150,
       visible: false,
       value: 0,
